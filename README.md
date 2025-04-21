@@ -32,3 +32,17 @@ Welcome to the Webinar Management App! This is a simple app that helps you manag
 - **Font Awesome**: For adding icons to the app.
 - **React Router**: To handle navigation between pages.
 - **Context API**: For managing the webinar data across different pages.
+
+## 📸 Screenshots
+
+### 🏠 Home
+![Home](Screenshots/Home.png)
+
+### 📅 Manage
+![Manage](Screenshots/Manage.png)
+
+### ⏳ Webinars
+![Webinars](Screenshots/Webinars.png)
+
+### 🧩 Settings
+![Settings](Screenshots/Settings.png)
